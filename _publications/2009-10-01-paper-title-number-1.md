@@ -6,13 +6,14 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-11-10
 venue: 'Workshop on Approximation and Online Algorithms (WAOA)'
+---
 <!---
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 -->
----
+
 We study online algorithms for maximum cardinality match
 ings with edge arrivals in graphs of low degree. Buchbinder, Segev,
  and Tkach showed that no online algorithm for maximum cardinal
@@ -33,4 +34,4 @@ tite and edges are revealed according to vertex arrivals, i.e. once a vertex
 gral matchings, because for both of them the best achievable competitive
  ratio is 2/3. Also, our results demonstrate that for graphs of maximum
  degree three best possible competitive ratios for fractional matchings are
- thesameinthevertexarrivalandintheedgearrivalmodels.
+ the same in the vertex arrival and in the edge arrival models.
