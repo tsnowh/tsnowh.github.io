@@ -1,14 +1,36 @@
 ---
-title: "Paper Title Number 1"
+title: "Online Algorithm for Fractional Matchings with Edge Arrivals in Graphs of Maximum Degree Three"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2025-11-10
+venue: 'Workshop on Approximation and Online Algorithms (WAOA)'
+<!---
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+-->
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We study online algorithms for maximum cardinality match
+ings with edge arrivals in graphs of low degree. Buchbinder, Segev,
+ and Tkach showed that no online algorithm for maximum cardinal
+ity fractional matchings can achieve a competitive ratio larger than
+ 4/(9 − √5) ≈ 0.5914 even for graphs of maximum degree three. The
+ negative result of Buchbinder et al. holds even when the graph is bipar
+tite and edges are revealed according to vertex arrivals, i.e. once a vertex
+ arrives, all edges are revealed that include the newly arrived vertex and
+ one of the previously arrived vertices. In this work, we complement the
+ negative result of Buchbinder et al. by providing an online algorithm
+ for maximum cardinality fractional matchings with a competitive ratio
+ at least 4/(9−√5) ≈ 0.5914 for graphs of maximum degree three. We also
+ demonstrate that no online algorithm for maximum cardinality integral
+ matchings can have the competitive guarantee 0.5807, establishing a gap
+ between integral and fractional matchings for graphs of maximum degree
+ three. Note that the work of Buchbinder et al. shows that for graphs of
+ maximum degree two, there is no such gap between fractional and inte
+gral matchings, because for both of them the best achievable competitive
+ ratio is 2/3. Also, our results demonstrate that for graphs of maximum
+ degree three best possible competitive ratios for fractional matchings are
+ thesameinthevertexarrivalandintheedgearrivalmodels.
