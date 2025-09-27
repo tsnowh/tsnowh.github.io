@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Thomas Snow"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "MSc Student within the Theory Group at the University of Toronto"
+  location         : "Toronto, Canada"
   employer         : "University of Toronto"
   uri              : # URL
   email            : "tsnow@cs.toronto.edu" 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  tsnowh
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
