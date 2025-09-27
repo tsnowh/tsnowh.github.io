@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc. in Computer Science, University of Toronto, Sept 2024 - Present
+* BS. in Mathematics, University of Waterloo, Sept 2019 - Dec 2023
+
+Research
+======
+* 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Public Services and Procurement Canada: Data Scientist / Operations Researcher 
+  * May 2024 – Aug 2024 | Ottawa, Canada
+  * Produced a real property report analyzing the predicted occupancy and true benchmark counts.
+  * Utilized copulas to model the joint distribution of multiple count types over a multitude of buildings in order to analyze their dependency structure and better predict the true occupancy counts, with data manipulation and analysis done through R.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sun Life Financial: Security Developer
+  * May 2022 – Aug 2022 | Waterloo, Canada
+  * Co-developed a library in Java that scans and validates uploaded files for
+malicious content, supporting a variety of file types.
+  * Coordinated efforts and collaborated with multiple teams and third parties to remediate penetration test findings.
+  * Utilized Burp Suite Professional to recreate vulnerabilities and flag false positives.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sun Life Financial: Application Security Developer
+  * May 2021 – Aug 2021 |  Waterloo, Canada
+  * Developed an extension for Burp Suite Professional using Java and SQLite to
+test the security of web applications.
+  * Wrote an API using ASP.NET in C\# to check for insecure login credentials.
+  * Developed tools in C++ to perform HTTP requests and process the responses.
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ontario Graduate Scholarship (OGS) 2025 ~ $15,000
+* Mathematics Undergraduate Research Award (MURA) 2024 ~ $6,000
+* NSERC Undergraduate Student Research Award (USRA) 2023 ~ $6,000
 
 Publications
 ======
