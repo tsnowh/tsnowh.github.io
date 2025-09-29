@@ -3,9 +3,9 @@ title: "Online Algorithm for Fractional Matchings with Edge Arrivals in Graphs o
 collection: talks
 type: "Talk"
 permalink: /talks/WAOA-2025-talk
-venue: "Workshop on Approximation and Online Algorithms (WAOA)"
+venue: "Workshop on Approximation and Online Algorithms (WAOA), University of Warsaw, Faculty of Physics"
 date: 2025-09-19
-location: "University of Warsaw, Poland"
+location: "Warsaw, Poland"
 ---
 
 
