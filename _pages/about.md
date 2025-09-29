@@ -15,5 +15,5 @@ My main area of research is Graph Theory. Currently, I've been working in the ar
 
 Publications
 ======
-{{include ../_publications/WAOA-2025.md}}
+![[WAOA-2025.md]]
 
