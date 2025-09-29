@@ -13,4 +13,7 @@ My Research
 ======
 My main area of research is Graph Theory. Currently, I've been working in the area of Random Graphs and the Probabilistic Method, but I am also interested in structural and extremal properties of graphs. 
 
+Publications
+======
+* Author A, Author B. "Title of Publication." *Journal/Conference Name*, Volume(Issue): Pages, Year. 
 
