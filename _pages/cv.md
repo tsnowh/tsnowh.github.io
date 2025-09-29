@@ -48,7 +48,7 @@ Awards
 
 Publications
 ======
-###Referred Conferences
+Referred Conferences
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
