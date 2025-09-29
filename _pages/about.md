@@ -11,6 +11,6 @@ I am a second-year MSc student at the University of Toronto with the [Theory Gro
 
 My Research
 ======
-My main area of research is Graph Theory. Currently, I've been working in the area of Random Graphs and the Probabilistic Method.
+My main area of research is Graph Theory. Currently, I've been working in the area of Random Graphs and the Probabilistic Method, but I am also interested in structural and extremal properties of graphs. 
 
 
