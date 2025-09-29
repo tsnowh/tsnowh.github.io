@@ -44,12 +44,14 @@ Awards
 * Ontario Graduate Scholarship (OGS) 2025 ~ $15,000
 * Mathematics Undergraduate Research Award (MURA) 2024 ~ $6,000
 * NSERC Undergraduate Student Research Award (USRA) 2023 ~ $6,000
+* University of Waterloo President Scholarship 2020 ~ $2,000 
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Referred Conferences
+    <ul>{% for post in site.publications reversed %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
   
 Talks
 ======
