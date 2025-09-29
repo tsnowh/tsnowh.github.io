@@ -15,5 +15,5 @@ My main area of research is Graph Theory. Currently, I've been working in the ar
 
 Publications
 ======
-* Author A, Author B. "Title of Publication." *Journal/Conference Name*, Volume(Issue): Pages, Year. 
+{{include WAOA-2025.md}}
 
