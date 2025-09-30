@@ -16,7 +16,13 @@ Education
 
 Research
 ======
-* 
+* University of Waterloo: Undergraduate Research Assistant (URA) 
+  * May 2023 - Aug 2023 & Jan 2024 - Apr 2024 | Waterloo, Canada
+  * Worked under the supervision of [Prof. Kanstantsin Pashkovich](https://kanstantsinpashkovich.bitbucket.io/index.html) and [Prof. Ricardo Fukasawa](https://www.math.uwaterloo.ca/~rfukasaw/).
+  * Worked on Online Algorithms for matchings in the adversarial edge arrival model.
+  * [Published](https://tsnowh.github.io/publication/WAOA-2025) in the Proceedings of the Workshop on Approximation and Online Algorithms (WAOA), part of ALGO 2025.
+  * Gave a 20-minute presentation outlining our work and contributions at ALGO 2025.
+  * Research funded by NSERC Undergraduate Student Research Award (USRA) and Mathematics Undergraduate Research Award (MURA).
 
 Work experience
 ======
