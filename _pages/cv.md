@@ -13,7 +13,7 @@ Education
 ======
 * MSc. in Computer Science, University of Toronto, Sept 2024 - Present
   * GPA: 4.0 / 4.0
-* BS. in Mathematics, University of Waterloo, Sept 2019 - Dec 2023
+* B.Math, University of Waterloo, Sept 2019 - Dec 2023
   * GPA: 3.86 / 4.0
   * Dean's Honours
 
