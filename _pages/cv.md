@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <iframe
-  src="https://tsnowh.github.io/files/WAOA-2025-presentation.pdf?file=CV"
+  src="https://tsnowh.github.io/files/Academic-CV.pdf?file=CV"
   width="100%"
   height="600px"
   style="border: none;">
