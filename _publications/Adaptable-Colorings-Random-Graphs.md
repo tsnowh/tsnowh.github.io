@@ -1,7 +1,7 @@
 ---
 title: "On the Critical Window for Adaptable 2-Colorability"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/Adaptable-Colorings-arXiv
 excerpt: 'Authors: Thomas Snow'
 date: 2026-09-18
