@@ -6,8 +6,9 @@ permalink: /publication/Adaptable-Colorings-arXiv
 excerpt: 'Authors: Thomas Snow'
 date: 2026-09-18
 venue: 'arXiv Preprint'
-slidesurl: 'https://tsnowh.github.io/files/WAOA-2025-presentation.pdf'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-032-06706-7_14'
+slidesurl: 'https://tsnowh.github.io/files/TSS-Nov-2025.pdf'
+paperurl: 'https://arxiv.org/abs/2609.12214'
+bibtexurl: 'https://tsnowh.github.io/files/Adaptable-colorings.bib'
 ---
 <!---
 paperurl: 'https://arxiv.org/abs/2609.12214'
