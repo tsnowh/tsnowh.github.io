@@ -1,5 +1,5 @@
 ---
-title: "..."
+title: "On the Critical Window for Adaptable 2-Colorability"
 collection: talks
 type: "Seminar"
 permalink: /talks/TSS-Nov-2025
