@@ -26,11 +26,11 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "Thomas Snow"
   pronouns         : # example: "she/her"  
-  bio              : "MSc Student within the Theory Group at the University of Toronto"
-  location         : "Toronto, Canada"
-  employer         : "University of Toronto"
+  bio              : "PHD student at the University of Ottawa, School of Electrical Engineering and Computer Science"
+  location         : "Ottawa, Canada"
+  employer         : "University of Ottawa"
   uri              : # URL
-  email            : "tsnow@cs.toronto.edu" 
+  email            : "tsnow042@uottawa.ca" 
 
   # Academic websites
   academia         : # URL
