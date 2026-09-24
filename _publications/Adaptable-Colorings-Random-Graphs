@@ -10,9 +10,9 @@ slidesurl: 'https://tsnowh.github.io/files/WAOA-2025-presentation.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-032-06706-7_14'
 ---
 <!---
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/abs/2609.12214'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-bibtexurl: 'https://tsnowh.github.io/files/WAOA-proceedings.bib'
+bibtexurl: 'https://tsnowh.github.io/files/Adaptable-colorings.bib'
 -->
 
 We determine a sharp threshold for the adaptable 2-colorability of a random graph equipped with a uniformly random, not necessarily proper, 
